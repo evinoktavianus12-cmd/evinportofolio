@@ -1,15 +1,15 @@
 {
-  "name": "astrofy",
-  "description": "Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.",
+  "name": "evinportofolio",
+  "description": "portofolio by evin",
   "type": "module",
   "version": "3.0.0",
   "private": true,
   "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
+    "dev": "evinporto",
+    "start": "evinporto",
+    "build": "evinporto",
+    "preview": "evinporto",
+    "astro": "evin"
   },
   "dependencies": {
     "@astrojs/mdx": "^2.0.3",
